@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Aazmeer Ali — a front-end web developer passionate about creating clean, responsive, and user-friendly web experiences.
 
-<!--
-**AazmeerAli/AazmeerAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build projects using:
+- HTML, CSS, JavaScript & React
+- Tailwind CSS & Chakra UI
+- GSAP animations
+- Firebase & Appwrite for backend
+- Git & GitHub for version control
 
-Here are some ideas to get you started:
+💼 I've worked with real clients, delivering websites that combine performance and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently open to front-end internship opportunities (remote or on-site).
+
+📫 Let’s connect:
+Portfolio → https://aazmeerali.netlify.app
+LinkedIn → https://www.linkedin.com/in/m-aazmeer-ali-4b7b58335/
