@@ -1,16 +1,33 @@
-👋 Hi, I'm Aazmeer Ali — a front-end web developer passionate about creating clean, responsive, and user-friendly web experiences.
+# 👋 Hi, I'm Muhammad Aazmeer Ali
 
-🚀 I build projects using:
-- HTML, CSS, JavaScript & React
-- Tailwind CSS & Chakra UI
-- GSAP animations
-- Firebase & Appwrite for backend
-- Git & GitHub for version control
+**Full-Stack Web Developer** with a strong focus on **Next.js** — passionate about building clean, responsive, and user-friendly web experiences.
 
-💼 I've worked with real clients, delivering websites that combine performance and design.
+---
 
-🎯 Currently open to front-end internship opportunities (remote or on-site).
+## 🚀 Tech Stack
 
-📫 Let’s connect:
-Portfolio → https://aazmeerali.netlify.app
-LinkedIn → https://www.linkedin.com/in/m-aazmeer-ali-4b7b58335/
+**Frontend**
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
+
+**Backend & Database**
+`Node.js` `Express` `MongoDB` (MERN Stack)
+
+**Tools**
+`Git` `GitHub` `Postman`
+
+**Other**
+`REST APIs` `Responsive Design` `SEO Basics` `Web Hosting & Deployment`
+
+---
+
+## 🛠️ Projects
+
+### 🛒 [Amanoon](https://amanoon.ae) — Multivendor E-commerce Marketplace
+> Frontend development (Next.js) for a live Dubai-based multivendor marketplace. Built responsive storefront pages and integrated REST APIs with the backend team.
+
+### ⚡ [PeakPunching](https://peakpunching.com) — Full-Stack Business Platform *(Coming Soon)*
+> Independently built a complete full-stack website for a US-based company offering vector conversion, embroidery & patch services. Includes a custom admin panel with role-based access control, dynamic content management (blogs, FAQs, testimonials, portfolio, pricing) — handled frontend + backend end-to-end.
+
+---
+
+> *Currently open to frontend or full-stack opportunities — remote or on-site.*
