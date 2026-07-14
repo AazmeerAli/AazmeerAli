@@ -10,13 +10,13 @@
 `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
 **Backend & Database**
-`Node.js` `Express` `MongoDB` (MERN Stack)
+`Node.js` `Express` `MongoDB` `Next.js`
 
 **Tools**
 `Git` `GitHub` `Postman`
 
 **Other**
-`REST APIs` `Responsive Design` `SEO Basics` `Web Hosting & Deployment`
+`REST APIs` `Responsive Design` `Web Hosting & Deployment`
 
 ---
 
